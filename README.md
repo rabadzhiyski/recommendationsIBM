@@ -14,7 +14,7 @@ For this project I analyze the interactions that users have with articles on the
 Numpy, Pandas, Seaborn, Pickle
 
 ## Instructions
-The code is in Jupyter notebook with several notes and instructions for use in future projects.
+The code is in Jupyter notebook and .html file format with several notes and instructions for use in future projects. There are also files linked to the document like data, test, and pickles files.
 
 ## Acknowledgements
 This app was completed as part of the [Udacity Data Science Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Code templates and data were provided by Udacity. 
